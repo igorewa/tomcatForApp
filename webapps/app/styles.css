@@ -1,0 +1,48 @@
+
+body {
+    background: url(image.jpg);
+}
+
+div.addUser{
+    text-align: center;
+}
+
+div.header {
+    text-align: center;
+    font-size: 80px;
+    font-family: Lucida Sans Unicode, monospace;
+}
+
+div.userSelect {
+    text-align: center;
+    font-size: 30px;
+    font-family: Lucida Sans Unicode, monospace;
+}
+
+div.userData {
+    margin-top: 80px;
+    margin-left: 530px;
+    text-align: left;
+    font-size: 15px;
+    font-family: Lucida Sans Unicode, monospace;
+}
+
+div.editForm{
+    margin-left: 530px;
+    text-align: left;
+    font-size: 15px;
+    font-family: Lucida Sans Unicode, monospace;
+}
+
+newUserForm{
+     margin-left: 530px;
+     text-align: left;
+     font-size: 15px;
+     font-family: Lucida Sans Unicode, monospace;
+}
+
+editButton, deleteButton{
+    text-align: center;
+}
+
+
